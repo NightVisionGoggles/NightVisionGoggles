@@ -1,5 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTc3ejM4aHgzZjkyOGozaXozYnlmZW94N2JhNzF0ZHNhN3Fza2ZmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6yR8QBYBztb04AUuV/200.gif" width="400" height="60" />
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BqcTNpNzZleHF2MmY5dzB0aGxwdWdld2ZndjNmdWtqdDNxNDRhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5pfVNkaLHKMiYjU5fj/200.gif" width="200" height="45" /> 
 <!--
 **PRAISETHELARD/PRAISETHELARD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
