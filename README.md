@@ -1,4 +1,4 @@
-<p align="center"> I like browsing the World Wide Web! wip
+<p align="center"> I like browsing the World Wide Web
 <p align="center"> <a href="https://28dayslater.neocities.org/"><img src="https://github.com/PRAISETHELARD/PRAISETHELARD/blob/main/IMG_3468.gif">
-<p align="center"> <b>DayZ,</b> The Last Of Us, <b>The Outlast Trials</b>, PAYDAY 2, RE7, S.T.A.L.K.E.R.
-<p align="center"> <b>Hardcore Henry,</b> 
+<p align="center"> <b>DayZ,</b> <b>The Outlast Trials,</b> PAYDAY 2, The Last Of Us, RE7, S.T.A.L.K.E.R.
+<p align="center"> <b>Hardcore Henry,</b> House of 1000 Corpses, 28 Days Later, Jarhead
