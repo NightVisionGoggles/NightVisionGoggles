@@ -7,4 +7,4 @@
 <p align="center"> <a href="https://github.com/neurozoned" title="CODY"/> <img src="noir.png" height="56" width="99"> </a> <a href="https://github.com/dethglok2000" title="TOKI"/> <img src="fuckingevilwizard.png" height="56" width="99"> </a>
 <br>
 <p align="center" > <a href="https://nightvisiongoggles.neocities.org/" title="MY NEOCITIES"/> <img src="line2.png"> </a> 
-<br> <p align="center"> ^STEP HERE^ </p>
+<br> <p align="center" target="_blank"> ^STEP HERE^ </p>
