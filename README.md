@@ -8,6 +8,6 @@
 <p align="center"> <img src="wesker2.gif" height="57px" width="101px"> <img src="cloaker.gif"> <img src="price1.gif"> <img src="glazstamp.gif"> <img src="keeganstealth.gif"> <img src="starsstamp.gifv"> </p>
 <p align="center"> <img src="barbwire.png"> <br> 
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
-<p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="noir.png" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="TOKI"/><img src="fuckingevilwizard.png" height="56" width="99"></a> <a href="https://github.com/https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a>
+<p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="noir.png" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="TOKI"/><img src="fuckingevilwizard.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a>
 <br> <p align="center"> <a href="https://jimmy.atabook.org/" title="GUESTBOOK"><img src="guestbook.gif"></a>
 <p align="center"> Please sign my Atabook! </p>
