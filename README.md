@@ -22,7 +22,6 @@
  <img src="jinkies.gif">
  <img src="ride-free.gif">
  <img src="violent-videogames.gif">
- <img src="coil.gifv" height="20" width="150">
  <img src="pulse.gif">
  <img src="slasher.gif">
  <img src="thecrow.gif">
