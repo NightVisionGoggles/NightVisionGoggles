@@ -2,13 +2,13 @@
 <p align="center"> <img src="barbwire.png"> <br> 
 <p align="center"> <a href="https://outlast.fandom.com/wiki/Night_Hunter" title="NIGHT HUNTER from Outlast Trials"><img src="nh-exec.gif"></a> <a href="https://hero.fandom.com/wiki/Jimmy_(Hardcore_Henry)" title="JIMMY from Hardcore Henry"><img src="jimmy.gif"></a> <a href="https://fantasticmrfox.fandom.com/wiki/Ash" title="ASH from Fantastic Mr. Fox"><img src="fantasticmrfox.gif"></a> <a href="" title="BUBBA from TCM"><img src="bubba.gif"></a> <a href="https://nightinthewoods.fandom.com/wiki/Gregg_Lee" title="GREGG from Night in The Woods"><img src="maeandgregg.gif"></a> </p> 
 <!-- interests -->
-<p align="center"> RUSSELL 18 SOUTHERN WHITE/BRAZ </p>
+<p align="center"> <a href="https://en.pronouns.page/@C0Y0TE">RUSSELL</a> 18 SOUTHERN APPALACHIAN WHITE/BRAZ </p>
 <p align="center"> <b>GENERAL</b> - zombie, first-person shooter, survival horror games, coding, physical sciences, motosport/motorcycles, welding <br>
 <p align="center"> <b>GAMES</b> - DayZ, The Last of Us, Tarkov, R6S, RDR2, FNV, Call of Duty (MW2 2009 + Ghosts), Outlast, Splinter Cell, PAYDAY 2, S.T.A.L.K.E.R. <br> 
-<br> <b>FILMS</b> - Hardcore Henry, Fight Club, 28 Days Later, House of 1000 Corpses, The Crow, Jarhead, Cube, <a href="https://letterboxd.com/pigfaced/" title="LETTERBOXD">more ...</a> <br> 
-<br> <b>MUSIC</b> - Industrial, Electronic, New wave/Synth pop, Post-punk, Trip-hop, Dub, Funk, Bluegrass/Folk, 60s-80s Country <a href="https://www.last.fm/user/hydrograd" title="LAST.FM">more ...</a>
+<br> <b>FILMS</b> - Hardcore Henry, Fight Club, 28 Days Later, House of 1000 Corpses, The Crow, Jarhead, Cube, <a href="https://letterboxd.com/pigfaced/" title="LETTERBOXD">letterboxd...</a> <br>
+<br> <b>MUSIC</b> - Industrial, Electronic, New wave/Synth pop, Post-punk, Trip-hop, Dub, Funk, Bluegrass/Folk, 60s-80s Country <a href="https://www.last.fm/user/hydrograd" title="LAST.FM">last.fm...</a>
 <br> 
-<p align="center"> <b>DNI</b> - please don't cover me and be a normal person to me and my friends! weird outlast fans don't even look at me (eddie, coyle, trager, etc) 
+<p align="center"> <b>DNI</b> - please don't cover me and be a normal person to me and my friends! if you like a disgusting person from a media i like don't talk to me! 
 <p align="center"> <img src="barbwire.png"> <br> 
 <!-- blinkies section -->
 <p align="center">
