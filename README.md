@@ -9,7 +9,9 @@
 <br> <b>FILMS</b> - Hardcore Henry, Fight Club, 28 Days Later, House of 1000 Corpses, The Crow, Jarhead, Cube, <a href="https://letterboxd.com/pigfaced/" title="LETTERBOXD">letterboxd...</a> <br>
 <br> <b>MUSIC</b> - Industrial, Electronic, New wave/Synth pop, Post-punk, Trip-hop, Dub, Funk, Bluegrass/Folk, 60s-80s Country <a href="https://www.last.fm/user/hydrograd" title="LAST.FM">last.fm...</a>
 <br> 
-<p align="center"> <b>DNI</b> - please don't cover me and be a normal person to me and my friends! if you like a disgusting person from a media i like don't talk to me! 
+<p align="center"> <b>DNI</b> - please don't cover me and be a normal person to me and my friends! if you like a disgusting person from a media i like don't talk to me!
+<br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
+<p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="noir.png" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="JOEL"/><img src="fuckingevilwizard.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a> 
 <p align="center"> <img src="barbwire.png"> <br> 
 <!-- blinkies section -->
 <p align="center">
@@ -248,7 +250,4 @@
 <img src="mercy.gif" height="20" width="150">
 <img src="joydivison.gif" height="20" width="150">
 </p>
-<!-- friends -->
 <p align="center"> <img src="barbwire.png">
-<br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
-<p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="noir.png" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="TOKI"/><img src="fuckingevilwizard.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a>
