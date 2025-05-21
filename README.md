@@ -178,7 +178,6 @@
  <!-- purple --> 
 <img src="stargaze.gif" height="20" width="150">
  <img src="RE6.gif" height="20" width="150">
-<img src="chronicdisconnect.gif" height="20" width="150"> 
  <img src="labyrinth.gif" height="20" width="150">
  <img src="theexorcist.gif" height="20" width="150">
 <img src="eviltrans.gif" height="20" width="150"> 
@@ -250,6 +249,6 @@
 <img src="joydivison.gif" height="20" width="150">
 </p>
 <!-- friends -->
-<p align="center"> <img src="barbwire.png"> <br> 
+<p align="center"> <img src="barbwire.png">
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
 <p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="noir.png" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="TOKI"/><img src="fuckingevilwizard.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a>
