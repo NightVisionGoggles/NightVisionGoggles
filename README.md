@@ -1,17 +1,17 @@
 <code>                                     </code> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=leonisnotonline&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) <code>                                     </code>
-<br> <p align="center"> <a href="https://nightvisiongoggles.neocities.org/"><img src="nightvisionrev.png" height="150"></a>
-<p align="center"> <img src="barbwire.png"> <br> 
+<br> 
 <p align="center"> <a href="https://outlast.fandom.com/wiki/Night_Hunter" title="NIGHT HUNTER from Outlast Trials"><img src="nh-exec.gif"></a> <a href="https://hero.fandom.com/wiki/Jimmy_(Hardcore_Henry)" title="JIMMY from Hardcore Henry"><img src="jimmy.gif"></a> <a href="https://fantasticmrfox.fandom.com/wiki/Ash" title="ASH from Fantastic Mr. Fox"><img src="fantasticmrfox.gif"></a> <a href="" title="BUBBA from TCM"><img src="bubba.gif"></a> <a href="https://nightinthewoods.fandom.com/wiki/Gregg_Lee" title="GREGG from Night in The Woods"><img src="maeandgregg.gif"></a> </p> 
+<p align="center"> <a href="https://nightvisiongoggles.neocities.org/"><img src="nightvisionrev.png" height="150"></a>
 <!-- interests -->
 <p align="center"> <a href="https://en.pronouns.page/@C0Y0TE">RUSSELL</a> 18 SOUTHERN APPALACHIAN WHITE/BRAZ </p>
 <p align="center"> <b>GENERAL</b> - zombie, first-person shooter, survival horror games, coding, physical sciences, motosport/motorcycles, welding <br>
-<p align="center"> <b>GAMES</b> - DayZ, The Last of Us, Tarkov, R6S, RDR2, FNV, Call of Duty (MW2 2009 + Ghosts), Outlast, Splinter Cell, PAYDAY 2, S.T.A.L.K.E.R. <br> 
+<p align="center"> <b>GAMES</b> - DayZ, The Last of Us, Tarkov, FNV, R6S, RDR2, Outlast, PAYDAY 2, S.T.A.L.K.E.R., Call of Duty (MW2 2009 & Ghosts), Splinter Cell <br> 
 <br> <b>FILMS</b> - Hardcore Henry, Fight Club, 28 Days Later, House of 1000 Corpses, The Crow, Jarhead, Cube, <a href="https://letterboxd.com/pigfaced/" title="LETTERBOXD">letterboxd...</a> <br>
 <br> <b>MUSIC</b> - Industrial, Electronic, New wave/Synth pop, Post-punk, Trip-hop, Dub, Funk, Bluegrass/Folk, 60s-80s Country <a href="https://www.last.fm/user/hydrograd" title="LAST.FM">last.fm...</a>
 <br> 
-<p align="center"> <b>DNI</b> - please don't cover me and be a normal person to me and my friends! if you like a disgusting person from a media i like don't talk to me!
+<p align="center"> <b>DNI</b> - please don't cover me and be a normal person to me and my friends! <br> Being normal includes not genuinely obsessing over bigoted/horrible characters and media
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
-<p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="noir.png" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="JOEL"/><img src="fuckingevilwizard.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a> 
+<p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="stalker.gif" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="JOEL"/><img src="fuckingevilwizard.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a> 
 <p align="center"> <img src="barbwire.png"> <br> 
 <!-- blinkies section -->
 <p align="center">
