@@ -2,7 +2,7 @@
 <br> 
 <p align="center"> <a href="https://outlast.fandom.com/wiki/Night_Hunter" title="NIGHT HUNTER from Outlast Trials"><img src="nh-exec.gif"></a> <a href="https://hero.fandom.com/wiki/Jimmy_(Hardcore_Henry)" title="JIMMY from Hardcore Henry"><img src="jimmy.gif"></a> <a href="https://fantasticmrfox.fandom.com/wiki/Ash" title="ASH from Fantastic Mr. Fox"><img src="fantasticmrfox.gif"></a> <a href="" title="BUBBA from TCM"><img src="bubba.gif"></a> <a href="https://nightinthewoods.fandom.com/wiki/Gregg_Lee" title="GREGG from Night in The Woods"><img src="maeandgregg.gif"></a> </p> 
 <!-- interests -->
-<p align="center"> <a href="https://en.pronouns.page/@C0Y0TE">RUSSELL</a> 18 SOUTHERN APPALACHIAN WHITE/BRAZ </p>
+<p align="center"> <a href="https://en.pronouns.page/@C0Y0TE">RUSSELL</a> 19 SOUTHERN APPALACHIAN WHITE/BRAZ </p>
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
 <p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="stalker.gif" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="JOEL"/><img src="notrespassing.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a> 
 <p align="center"> <img src="barbwire.png"> <br> 
