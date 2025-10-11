@@ -15,57 +15,46 @@
 <img src="apocalyptic.gif" height="20" width="150">
  <img src="rockyhorror.gif" height="20" width="150">
  <img src="horror-movies.gif" height="20" width="150">
+<img src="chemlab.webp" height="20" width="150"> 
 <img src="scooby.gif" height="20" width="150">
 <img src="cherrypie.gif" height="20" width="150"> 
- <img src="jinkies.gif" height="20" width="150">
+<img src="aic.webp" height="20" width="150"> 
  <img src="ride-free.gif" height="20" width="150">
 <img src="24hours.gif" height="20" width="150"> 
+<img src="lam2.webp" height="20" width="150"> 
+<img src="snakeriverconspiracy.webp" height="20" width="150"> 
 <img src="friday.gif" height="20" width="150">
 <img src="youredead.gif" height="20" width="150"> 
-<img src="plaguedoctor.gif" height="20" width="150"> 
 <img src="bordercollieblinkie.gif" height="20" width="150">
-<img src="80sslasher.gif" height="20" width="150"> 
- <img src="violent-videogames.gif" height="20" width="150">
-<img src="kitkT.gif" height="20" width="150">
-<img src="whoyagonnacall.webp" height="20" width="150"> 
+ <img src="jinkies.gif" height="20" width="150">
 <img src="coke.gif" height="20" width="150">
-<img src="autism4autism.gif" height="20" width="150"> 
+ <img src="violent-videogames.gif" height="20" width="150">
  <img src="pulse.gif" height="20" width="150">
-<img src="bloodsucker.gif" height="20" width="150"> 
- <img src="slasher.gif" height="20" width="150">
-<img src="metalocalypse.gif" height="20" width="150">
 <img src="virus.gif" height="20" width="150"> 
+<img src="jason.webp" height="20" width="150"> 
  <img src="thecrow.gif" height="20" width="150">
+ <img src="scream.gif" height="20" width="150">
 <img src="carnivore.gif" height="20" width="150"> 
 <img src="gutwrenching.gif" height="20" width="150"> 
 <img src="crawlyguy.gif" height="20" width="150"> 
  <img src="NIN.gif" height="20" width="150">
  <img src="umbrellacorp.gif" height="20" width="150">
  <img src="hellraiser.gif" height="20" width="150">
- <img src="kmfdm.gif" height="20" width="150">
  <img src="spiderman.gif" height="20" width="150">
  <img src="depeche.gif" height="20" width="150">
- <img src="scream.gif" height="20" width="150">
- <img src="americanpsycho.gif" height="20" width="150">
- <img src="iwtv.gif" height="20" width="150">
- <img src="ghostbusters.gif" height="20" width="150">
  <img src="americanwerewolfinlondon.gif">
-<img src="transwomen.webp" height="20" width="150"> 
-<img src="transmen.webp" height="20" width="150">
+ <img src="alwaysunderconstr.gif" height="20" width="150">
  <img src="saw.gif" height="20" width="150">
 <img src="doom2.gif" height="20" width="150"> 
 <img src="science.gif" height="20" width="150"> 
  <img src="braindead.gif" height="20" width="150">
  <img src="zombies.gif" height="20" width="150">
  <img src="salmon.gif" height="20" width="150"> 
- <img src="alwaysunderconstr.gif" height="20" width="150">
- <img src="wile-e-coyote.gif" height="20" width="150">
 <img src="radiohead.gif" height="20" width="150">
 <img src="ratm.webp" height="20" width="150">  
  <!-- orange --> 
 <img src="aliceinchains.gif" height="20" width="150">
  <img src="autumn.gif" height="20" width="150">
-<img src="rats.gif" height="20" width="150">
 <img src="tomatosoup.gif" height="20" width="150"> 
 <img src="grilledcheese.gif" height="20" width="150"> 
 <img src="toast2.gif" height="20" width="150"> 
@@ -74,35 +63,28 @@
 <img src="teeth.gif" height="20" width="150"> 
 <img src="oranges.gif" height="20" width="150">
 <img src="chickennuggets.gif" height="20" width="150">
-<img src="pizzatime.gif" height="20" width="150">
-<img src="tf2_.gif" height="20" width="150"> 
-<img src="bakedbeans.gif" height="20" width="150"> 
 <img src="computergeek.gif" height="20" width="150"> 
 <img src="pumpkinpatch.gif" height="20" width="150"> 
 <img src="broken.gif" height="20" width="150">
-<img src="tcm.webp" height="20" width="150">  
+<img src="tcm.webp" height="20" width="150"> 
 <img src="tf2.gif" height="20" width="150"> 
  <img src="sweettea.gif" height="20" width="150">
 <img src="crazyforrobots.gif" height="20" width="150"> 
-<img src="stew.gif" height="20" width="150"> 
-<img src="more-beans.gif" height="20" width="150"> 
 <img src="shrek3.gif" height="20" width="150"> 
-<img src="tf2_suck.gif" height="20" width="150">
  <img src="lovehalloween.gif" height="20" width="150">
 <img src="panicdisorder.gif" height="20" width="150"> 
+<img src="team-fossil.webp" height="20" width="150"> 
 <img src="bananasplit.gif" height="20" width="150">
 <img src="leatherface.gif" height="20" width="150"> 
 <img src="londonaftrmidnight.gif" height="20" width="150"> 
  <img src="TDS.gif" height="20" width="150">
 <img src="idontfeelreal.gif" height="20" width="150"> 
 <img src="tkk.gif" height="20" width="150">
-<img src="toast.gif" height="20" width="150">
-<img src="thecure.webp" height="20" width="150"> 
-<img src="carebears.gif" height="20" width="150"> 
 <!-- brown --> 
-<img src="forager.gif" height="20" width="150"> 
+<img src="tlou.webp" height="20" width="150">  
 <img src="hotchoc.gif" height="20" width="150"> 
 <img src="marinebiology.gif" height="20" width="150"> 
+<img src="twd-blinkie.webp" height="20" width="150"> 
 <img src="pancake.gif" height="20" width="150">
 <img src="outlaw.gif" height="20" width="150">  
  <!-- yellow --> 
@@ -118,40 +100,33 @@
 <img src="pizzafreak.webp" height="20" width="150"> 
  <img src="radioactivity.gif" height="20" width="150">
 <img src="rewind.gif" height="20" width="150"> 
- <img src="biohazard.gif" height="20" width="150">
  <img src="mash.gif" height="20" width="150">
 <img src="fisher.gif" height="20" width="150"> 
  <!-- green --> 
 <img src="brba.gif" height="20" width="150">
 <img src="sdv.gif" height="20" width="150">
-<img src="radioactive.gif" height="20" width="150"> 
+<img src="radioactive2.webp" height="20" width="150"> 
  <img src="ac.gif" height="20" width="150">
 <img src="greens.gif" height="20" width="150"> 
 <img src="theoutlasttrials.gif">
  <img src="august.gif" height="20" width="150">
+<img src="scifi.webp" height="20" width="150"> 
 <img src="ocd.gif" height="20" width="150"> 
 <img src="undead1.gif" height="20" width="150"> 
 <img src="wwnd.gif" height="20" width="150">
  <img src="beetlejuice.gif" height="20" width="150">
- <img src="thematrix.gif" height="20" width="150">
 <img src="biohazardous.gif" height="20" width="150"> 
-<img src="lcdpulse.gif" height="20" width="150"> 
- <img src="htmltags.gif" height="20" width="150">
 <img src="i-love-zombies.gif" height="20" width="150"> 
- <img src="the-matrix.gif" height="20" width="150"> 
-<img src="whistleblower.gif" height="20" width="150">
  <img src="outlast.gif" height="20" width="150">
+<img src="whistleblower.gif" height="20" width="150">
  <img src="twinpeaks.gif" height="20" width="150">
 <img src="Slimerancher-hunter.gif" height="20" width="150">
 <img src="birdwatcher.gif" height="20" width="150"> 
 <img src="undead.gif" height="20" width="150"> 
  <img src="petsematary.gif" height="20" width="150">
-<img src="beetles.gif" height="20" width="150"> 
  <!-- blue -->
 <img src="thefly.webp" height="20" width="150"> 
  <img src="donniedarko.gif" height="20" width="150">
-<img src="water-drinker.gif" height="20" width="150">
-<img src="th.gif" height="20" width="150">
 <img src="skinny-puppy.gif" height="20" width="150">
  <img src="self-madebeing.gif" height="20" width="150">
  <img src="kissmybass.gif" height="20" width="150">
@@ -159,50 +134,36 @@
 <img src="www.gif" height="20" width="150">  
 <img src="robot.gif" height="20" width="150"> 
  <img src="bastard.gif" height="20" width="150">
-<img src="sleeping.gif" height="20" width="150"> 
 <img src="bluescreened.gif" height="20" width="150"> 
+<img src="sleeping.gif" height="20" width="150"> 
  <img src="cmdrmeouch.gif" height="20" width="150">
 <img src="zzzz.gif" height="20" width="150"> 
 <img src="snipermain.gif" height="20" width="150"> 
- <img src="squid.gif" height="20" width="150">
  <img src="videodrome.gif" height="20" width="150">
  <img src="ELO.gif" height="20" width="150">
-<img src="stargazer.gif" height="20" width="150"> 
- <img src="winamp.gif" height="20" width="150">
-<img src="casper.gif" height="20" width="150">
  <!-- purple --> 
 <img src="stargaze.gif" height="20" width="150">
+ <img src="razedinblack.webp" height="20" width="150">
  <img src="RE6.gif" height="20" width="150">
+<img src="chronicdisconnect.gif" height="20" width="150"> 
  <img src="labyrinth.gif" height="20" width="150">
- <img src="theexorcist.gif" height="20" width="150">
 <img src="eviltrans.gif" height="20" width="150"> 
 <img src="languages.gif" height="20" width="150">
 <img src="brainfogged.gif" height="20" width="150">
 <img src="pb&j.gif" height="20" width="150"> 
 <img src="chronicdisconnect.gif" height="20" width="150"> 
+<img src="leather_.webp" height="20" width="150"> 
  <img src="lam.gif" height="20" width="150"> 
 <img src="minecraft.gif" height="20" width="150">
 <img src="dissociate.gif" height="20" width="150"> 
-<img src="minecraftcake.gif" height="20" width="150"> 
-<img src="leather.gif" height="20" width="150"> 
-<img src="t4t.gif" height="20" width="150"> 
- <img src="psych.gif" height="20" width="150">
 <img src="memoryloss.gif" height="20" width="150"> 
-<img src="bloodmoon.gif" height="20" width="150"> 
-<img src="glitch.gif" height="20" width="150">
+<img src="fight-club.webp" height="20" width="150"> 
 <!-- white -->
 <img src="fishin.gif" height="20" width="150">
+<img src="price2.webp" height="20" width="150"> 
 <img src="deadfan.gif" height="20" width="150">
-<img src="smokeup.gif" height="20" width="150">
- <img src="edwardscissorhands.gif" height="20" width="150">
 <img src="borntodie.gif" height="20" width="150">
 <img src="hooters.gif" height="20" width="150">
- <img src="petshopboys.gif" height="20" width="150">
- <img src="hannibal.gif" height="20" width="150">
-<img src="rootbeer.gif" height="20" width="150">
-<img src="talkingheads.gif" height="20" width="150">  
- <img src="online-friends.gif" height="20" width="150">
-<img src="discs.gif" height="20" width="150"> 
 <!-- grey -->
  <img src="dustcollector.gif" height="20" width="150">
 <img src="anomaly.gif" height="20" width="150">
@@ -212,35 +173,18 @@
 <img src="moonshapedpool.webp" height="20" width="150"> 
  <img src="cars-not-dogs.gif" height="20" width="150">
 <img src="smokealarm.gif" height="20" width="150"> 
-<img src="duran-duran.gif" height="20" width="150"> 
- <img src="bauhaus.gif" height="20" width="150">
-<img src="nintendogs.gif" height="20" width="150">
-<img src="dbdblinkie.gif" height="20" width="150"> 
 <!-- black -->
-<img src="captspaulding.gif" height="20" width="150"> 
- <img src="fridaythe13th.gif" height="20" width="150">
- <img src="pizza.gif" height="20" width="150">
- <img src="top-gun.gif" height="20" width="150">
-<img src="cure.gif" height="20" width="150"> 
- <img src="withteeth.gif" height="20" width="150">
-<img src="darkest.gif" height="20" width="150"> 
 <img src="antiqueshops.gif" height="20" width="150"> 
  <img src="bass.gif" height="20" width="150">
 <img src="batty.gif" height="20" width="150"> 
-<img src="phas.gif" height="20" width="150">
-<img src="asf.gif" height="20" width="150"> 
-<img src="aphextwin.webp" height="20" width="150"> 
-<img src="ferrets.gif" height="20" width="150"> 
-<img src="matrix.gif" height="20" width="150">
+<img src="wire.webp" height="20" width="150"> 
+<img src="pigface.webp" height="20" width="150"> 
 <img src="pixies.gif" height="20" width="150"> 
-<img src="photography.gif" height="20" width="150"> 
-<img src="tearsforfears.gif" height="20" width="150">
-<img src="disabled&goth.gif" height="20" width="150"> 
+<img src="captspaulding.gif" height="20" width="150"> 
+ <img src="pizza.gif" height="20" width="150">
+<img src="asf.gif" height="20" width="150"> 
 <img src="seven.gif" height="20" width="150">
-<img src="sistersofmercy.gif" height="20" width="150">
-<img src="jackass.gif" height="20" width="150">
-<img src="twilightzone.gif" height="20" width="150">
-<img src="mercy.gif" height="20" width="150">
 <img src="joydivison.gif" height="20" width="150">
+<img src="console.webp" height="20" width="150"> 
 </p>
 <p align="center"> <img src="barbwire.png">
