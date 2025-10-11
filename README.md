@@ -184,7 +184,6 @@
  <img src="pizza.gif" height="20" width="150">
 <img src="asf.gif" height="20" width="150"> 
 <img src="seven.gif" height="20" width="150">
-<img src="joydivison.gif" height="20" width="150">
 <img src="console.webp" height="20" width="150"> 
 </p>
 <p align="center"> <img src="barbwire.png">
