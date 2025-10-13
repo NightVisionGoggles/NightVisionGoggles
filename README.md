@@ -2,6 +2,8 @@
 <br> 
 <p align="center"> <a href="https://outlast.fandom.com/wiki/Night_Hunter" title="NIGHT HUNTER from Outlast Trials"><img src="nh-exec.gif"></a> <a href="https://hero.fandom.com/wiki/Jimmy_(Hardcore_Henry)" title="JIMMY from Hardcore Henry"><img src="jimmy.gif"></a> <a href="https://fantasticmrfox.fandom.com/wiki/Ash" title="ASH from Fantastic Mr. Fox"><img src="fantasticmrfox.gif"></a> <a href="" title="BUBBA from TCM"><img src="bubba.gif"></a> <a href="https://nightinthewoods.fandom.com/wiki/Gregg_Lee" title="GREGG from Night in The Woods"><img src="maeandgregg.gif"></a> </p> 
 <!-- interests -->
+<p align="center"> russ, 19, southern appalachia, studying to be a forest ranger
+<p align="center"> i don't know why my ponytown is broken if you have tips let me know
 <p align="center"> --> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">website</a> </p>
  <p align="center"> --> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> </p>
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
