@@ -5,7 +5,7 @@
 <p align="center"> --> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">website</a> </p>
  <p align="center"> --> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> </p>
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
-<p align="center"> <a href="https://github.com/neurozoned" title="CODY"><img src="stalker.gif" height="56" width="99"></a> <a href="https://github.com/dethglok2000" title="JOEL"/><img src="notrespassing.png" height="56" width="99"></a> <a href="https://github.com/dogsoldiers" title="CHRIS"/><img src="werewolfinlondon.gif" height="56" width="99"></a> 
+<p align="center"> <img src="cody.gif"> <a href="https://github.com/neurozoned">CODY</a> 🔗 <img src="cartoon-0031.gif" height="25" width="20"> <a href="https://github.com/dethglok2000"/>JOEL</a> 🔗 <img src="horse1.gif"> <a href="https://github.com/dogsoldiers"/>CHRIS</a> 
 <p align="center"> <img src="barbwire.png"> <br> 
 <!-- blinkies section -->
 <p align="center">
