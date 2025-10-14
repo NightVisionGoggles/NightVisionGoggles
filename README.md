@@ -6,6 +6,9 @@
 <p align="center"> i don't know why my ponytown is broken LMAO i disappear a Lot
 <p align="center"> --> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">website</a> </p>
  <p align="center"> --> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> </p>
+ <p align="center"> . . .
+ <p align="center"> --> <a href="https://www.last.fm/user/hydrograd">last.fm</a> </p>
+  <p align="center"> --> <a href="https://letterboxd.com/pigfaced/">letterboxd</a> </p>
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
 <p align="center"> <img src="cody.gif"> <a href="https://github.com/neurozoned">CODY</a> 🔗 <img src="cartoon-0031.gif" height="25" width="20"> <a href="https://github.com/dethglok2000"/>JOEL</a> 🔗 <img src="horse1.gif"> <a href="https://github.com/dogsoldiers"/>CHRIS</a> 
 <p align="center"> <img src="barbwire.png"> <br> 
