@@ -64,8 +64,6 @@
 <img src="soupenjoyer.gif" height="20" width="150"> 
 <img src="addictedtocheese.gif" height="20" width="150">
 <img src="teeth.gif" height="20" width="150"> 
-<img src="oranges.gif" height="20" width="150">
-<img src="chickennuggets.gif" height="20" width="150">
 <img src="computergeek.gif" height="20" width="150"> 
 <img src="pumpkinpatch.gif" height="20" width="150"> 
 <img src="broken.gif" height="20" width="150">
@@ -148,7 +146,6 @@
 <img src="stargaze.gif" height="20" width="150">
  <img src="razedinblack.webp" height="20" width="150">
  <img src="RE6.gif" height="20" width="150">
-<img src="chronicdisconnect.gif" height="20" width="150"> 
  <img src="labyrinth.gif" height="20" width="150">
 <img src="eviltrans.gif" height="20" width="150"> 
 <img src="languages.gif" height="20" width="150">
@@ -165,8 +162,10 @@
 <img src="fishin.gif" height="20" width="150">
 <img src="price2.webp" height="20" width="150"> 
 <img src="deadfan.gif" height="20" width="150">
+ <img src="oranges.gif" height="20" width="150">
+<img src="chickennuggets.gif" height="20" width="150">
+ <img src="hooters.gif" height="20" width="150">
 <img src="borntodie.gif" height="20" width="150">
-<img src="hooters.gif" height="20" width="150">
 <!-- grey -->
  <img src="dustcollector.gif" height="20" width="150">
 <img src="anomaly.gif" height="20" width="150">
