@@ -8,11 +8,11 @@
   <p align="center"> <img src="double-heart-0001.gif"> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> </p>
  <p align="center"><img src="pig-animal-0109.gif"> <a href="https://toyhou.se/NightVisionGoggles" target="_blank">toyhou.se</a> </p>
  <p align="center">  <img src="branch.gif">
- <p align="center"> <img src="music-grey.gif"> <a href="https://www.last.fm/user/hydrograd">last.fm</a> </p>
-  <p align="center"> <img src="military-0029.gif"> <a href="https://steamcommunity.com/id/Quake1996/">steam</a> </p>
-  <p align="center"> <img src="bat-animal-0077.gif"> <a href="https://letterboxd.com/pigfaced/">letterboxd</a> </p>
+ <p align="center"> <img src="music-grey.gif"> <a href="https://www.last.fm/user/hydrograd" target="_blank">last.fm</a> </p>
+  <p align="center"> <img src="wrench_2.gif" height="20"> <a href="https://steamcommunity.com/id/Quake1996/" target="_blank">steam</a> </p>
+  <p align="center"> <img src="film.gif" height="15px"> <a href="https://letterboxd.com/pigfaced/" target="_blank">letterboxd</a> </p>
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
-<p align="center"> <img src="cody.gif"> <a href="https://github.com/neurozoned">CODY</a> 🔗 <img src="cartoon-0031.gif" height="25" width="20"> <a href="https://github.com/dethglok2000"/>JOEL</a> 🔗 <img src="horse1.gif"> <a href="https://github.com/dogsoldiers"/>CHRIS</a> 
+<p align="center"> <img src="cody.gif"> <a href="https://github.com/neurozoned" target="_blank">CODY</a> 🔗 <img src="cartoon-0031.gif" height="25" width="20"> <a href="https://github.com/dethglok2000" target="_blank">JOEL</a> 🔗 <img src="horse1.gif"> <a href="https://github.com/dogsoldiers" target="_blank">CHRIS</a> 
 <p align="center"> <img src="barbwire.png"> <br> 
 <!-- blinkies section -->
 <p align="center">
