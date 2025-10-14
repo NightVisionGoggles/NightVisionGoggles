@@ -2,13 +2,15 @@
 <br> 
 <p align="center"> <a href="https://outlast.fandom.com/wiki/Night_Hunter" title="NIGHT HUNTER from Outlast Trials"><img src="nh-exec.gif"></a> <a href="https://hero.fandom.com/wiki/Jimmy_(Hardcore_Henry)" title="JIMMY from Hardcore Henry"><img src="jimmy.gif"></a> <a href="https://fantasticmrfox.fandom.com/wiki/Ash" title="ASH from Fantastic Mr. Fox"><img src="fantasticmrfox.gif"></a> <a href="" title="BUBBA from TCM"><img src="bubba.gif"></a> <a href="https://nightinthewoods.fandom.com/wiki/Gregg_Lee" title="GREGG from Night in The Woods"><img src="maeandgregg.gif"></a> </p> 
 <!-- interests -->
-<p align="center"> russ, 19, southern appalachia, studying to be a forest ranger
+<p align="center"> russ <img src="redleaf.gif" height="20px">  19 <img src="redleaf.gif" height="20px"> southern appalachia <img src="redleaf.gif" height="20px"> studying to be a forest ranger
 <p align="center"> i don't know why my ponytown is broken LMAO i disappear a Lot
-<p align="center"> --> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">website</a> </p>
- <p align="center"> --> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> </p>
- <p align="center"> . . .
- <p align="center"> --> <a href="https://www.last.fm/user/hydrograd">last.fm</a> </p>
-  <p align="center"> --> <a href="https://letterboxd.com/pigfaced/">letterboxd</a> </p>
+ <p align="center"> <img src="small-tower.gif" height="30px"> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">NEOCITIES</a> </p>
+  <p align="center"> <img src="double-heart-0001.gif"> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> </p>
+ <p align="center"><img src="pig-animal-0109.gif"> <a href="https://toyhou.se/NightVisionGoggles" target="_blank">toyhou.se</a> </p>
+ <p align="center">  <img src="branch.gif">
+ <p align="center"> <img src="music-grey.gif"> <a href="https://www.last.fm/user/hydrograd">last.fm</a> </p>
+  <p align="center"> <img src="military-0029.gif"> <a href="https://steamcommunity.com/id/Quake1996/">steam</a> </p>
+  <p align="center"> <img src="bat-animal-0077.gif"> <a href="https://letterboxd.com/pigfaced/">letterboxd</a> </p>
 <br> <p align="center"> <a href="" title="MY FRIENDS"/> <img src="computeremail.gif"> </a>
 <p align="center"> <img src="cody.gif"> <a href="https://github.com/neurozoned">CODY</a> 🔗 <img src="cartoon-0031.gif" height="25" width="20"> <a href="https://github.com/dethglok2000"/>JOEL</a> 🔗 <img src="horse1.gif"> <a href="https://github.com/dogsoldiers"/>CHRIS</a> 
 <p align="center"> <img src="barbwire.png"> <br> 
