@@ -2,7 +2,7 @@
 <br> 
 <p align="center"> <a href="https://outlast.fandom.com/wiki/Night_Hunter" title="NIGHT HUNTER from Outlast Trials"><img src="nh-exec.gif"></a> <a href="https://hero.fandom.com/wiki/Jimmy_(Hardcore_Henry)" title="JIMMY from Hardcore Henry"><img src="jimmy.gif"></a> <a href="https://fantasticmrfox.fandom.com/wiki/Ash" title="ASH from Fantastic Mr. Fox"><img src="fantasticmrfox.gif"></a> <a href="" title="BUBBA from TCM"><img src="bubba.gif"></a> <a href="https://nightinthewoods.fandom.com/wiki/Gregg_Lee" title="GREGG from Night in The Woods"><img src="maeandgregg.gif"></a> </p> 
 <!-- interests -->
-<p align="center"> russ <img src="redleaf.gif" height="20px">  19 <img src="redleaf.gif" height="20px"> southern appalachia <img src="redleaf.gif" height="20px"> studying to be a forest ranger
+<p align="center"> russ <img src="redleaf.gif" height="20px">  19 <img src="redleaf.gif" height="20px"> southern appalachia 
 <p align="center"> i don't know why my ponytown is broken LMAO i disappear a Lot
  <p align="center"> <img src="small-tower.gif" height="30px"> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">NEOCITIES</a> </p>
   <p align="center"> <img src="double-heart-0001.gif"> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> </p>
