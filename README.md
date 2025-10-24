@@ -194,3 +194,76 @@
 <img src="console.webp" height="20" width="150"> 
 </p>
 <p align="center"> <img src="barbwire.png">
+<br><br>
+<!-- red -->
+<img src="tcm.gif" height="56" width="99"> 
+<img src="aawil_2.png" height="56" width="99"> 
+<img src="l4d.png" height="56" width="99"> 
+<img src="evildead.gif" height="56" width="99"> 
+<img src="aawil.png" height="56" width="99"> 
+<img src="scream1.webp" height="56" width="99">
+<img src="thething.gif" height="56" width="99">
+<img src="nh-exec.gif" height="56" width="99"> 
+<img src="peter-b-parker.gif" height="56" width="99"> 
+<img src="rdr2.gif" height="56" width="99">
+<img src="fnv2.png" height="56" width="99">
+<!-- orange -->
+<img src="trainspotting.gif" height="56" width="99">
+<img src="reservoirdogs.png" height="56" width="99"> 
+<img src="sniper.gif" height="56" width="99"> 
+<img src="stalker.gif" height="56" width="99"> 
+<img src="courier.webp" height="56" width="99">
+<img src="ennis.png" height="56" width="99">
+<img src="heart.gif" height="56" width="99"> 
+<img src="bubba.gif" height="56" width="99">
+<img src="fmf.gif" height="56" width="99">
+<!-- yellow --> 
+<img src="thesilenceofthelambs.png" height="56" width="99">
+<img src="maeandgregg.gif" height="56" width="99"> 
+<img src="twinpeaks2.png" height="56" width="99">
+<img src="sharpedges.gif" height="56" width="99"> 
+<!-- green -->
+<img src="eraserhead.gif" height="56" width="99">
+<img src="walker2.png" height="56" width="99">
+<img src="ghilliejimmy.gif" height="56" width="99"> 
+<img src="cabaretvoltaire.png" height="56px" width="99"> 
+<img src="narrator.gif" height="56" width="99"> 
+<img src="amanda.gif" height="56" width="99">
+<img src="LMAOOO.gif" height="56" width="99"> 
+<!-- light blue -->
+<img src="thefly2.png" height="56" width="99">
+<img src="thething_2.png" height="56" width="99"> 
+<!-- dark blue -->
+<img src="videodrome_2.png" height="56" width="99">
+<img src="halloween_2.png" height="56" width="99">
+<img src="glazstamp.gif" height="56" width="99">
+<img src="cod-ghosts.png" height="56" width="99">
+<img src="werewolfinlondon.gif" height="56" width="99">
+<!-- black -->
+<img src="door-stuck.gif" height="56" width="99">
+<img src="taskforce141.webp" height="56" width="99">
+ <img src="zombiesrun.webp" height="56" width="99">
+<img src="dontdeadopeinside.png" height="56" width="99">
+<img src="mw4.webp" height="56" width="99">
+<img src="MW2.png" height="56" width="99">
+<img src="teabag.webp" height="56" width="99">
+<img src="wesker2.gif" height="56" width="99">
+<img src="twd.gif" height="56" width="99"> 
+<img src="cloaker.gif" height="56" width="99">
+<img src="reborn.gif" height="56" width="99">
+<img src="dbd.png" height="56" width="99">
+<img src="starsstamp.gif" height="56" width="99">
+<img src="clipstudio.gif" height="56" width="99">
+<!-- white, purple -->
+<img src="bbm.webp" height="56" width="99">
+<img src="zombiepigmen.gif" height="56" width="99">
+<img src="fightclub.gif" height="56" width="99">
+<img src="bowie.webp" height="56" width="99">
+<img src="bistamp.png" height="56" width="99">
+<!-- rainbow -->
+<img src="dubstep1.gif" height="56" width="99">
+<img src="tfm1.gif" height="56" width="99">
+<img src="totallyrad.gif" height="56" width="99">
+<img src="gameboy.gif" height="56" width="99">
+
+<p align="center"> <img src="barbwire.png">
