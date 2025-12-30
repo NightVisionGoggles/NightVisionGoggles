@@ -4,7 +4,7 @@
 <!-- interests -->
 <p align="center"> russell <img src="redleaf.gif" height="15px">  19 <img src="redleaf.gif" height="15px"> southern appalachian
  <p align="center"> i like zombies, first-person shooters, and survival horror x)
- <p align="center"> <img src="small-tower.gif" height="30px"> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">NEOCITIES</a> <img src="double-heart-0001.gif"> <a href="https://jimmy.atabook.org/" target="_blank">guestbook</a> <img src="pig-animal-0109.gif"> <a href="https://toyhou.se/NightVisionGoggles" target="_blank">toyhou.se</a> </p>
+ <p align="center"> <img src="small-tower.gif" height="25px"> <a href="https://nightvisiongoggles.neocities.org/" target="_blank">NEOCITIES</a> <img src="double-heart-0001.gif"> <a href="https://www.instagram.com/nightvisiongogglez/" target="_blank">insta</a> <img src="pig-animal-0109.gif"> <a href="https://toyhou.se/NightVisionGoggles" target="_blank">toyhou.se</a> </p>
  <p align="center">  <img src="branch.gif">
  <p align="center"> <img src="music-grey.gif"> <a href="https://www.last.fm/user/hydrograd" target="_blank">last.fm</a> </p>
   <p align="center"> <img src="wrench_2.gif" height="20"> <a href="https://steamcommunity.com/id/Quake1996/" target="_blank">steam</a> </p>
